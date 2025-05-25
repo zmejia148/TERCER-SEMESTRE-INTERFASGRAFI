@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "mimi",
+    "telefono": "123456",
+    "email": "mimi.12@gmail.com",
+    "categoria": "Familia",
+    "favorito": true
+  },
+  {
+    "nombre": "Cesar",
+    "telefono": "7896325",
+    "email": "cesar.125@gmail.com",
+    "categoria": "Amigos",
+    "favorito": false
+  }
+]

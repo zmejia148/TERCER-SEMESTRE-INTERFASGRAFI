@@ -1,0 +1,54 @@
+@options
+@packages
+-classpath
+'C:/Users/USER-PC/.m2/repository/com/formdev/flatlaf/3.2.5/flatlaf-3.2.5.jar;C:/Users/USER-PC/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar;C:/Users/USER-PC/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar;C:/Users/USER-PC/.m2/repository/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar;C:/Users/USER-PC/.m2/repository/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/USER-PC/Documents/UPS/ALGORITMOS Y ESTRUCTURA DE DATOS/TERCER-SEMESTRE-INTERFASGRAFI/u1c5_AGC_Mejia_Zaida_TAREA3/src/main/java;C:/Users/USER-PC/Documents/UPS/ALGORITMOS Y ESTRUCTURA DE DATOS/TERCER-SEMESTRE-INTERFASGRAFI/u1c5_AGC_Mejia_Zaida_TAREA3/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USER-PC/Documents/UPS/ALGORITMOS Y ESTRUCTURA DE DATOS/TERCER-SEMESTRE-INTERFASGRAFI/u1c5_AGC_Mejia_Zaida_TAREA3/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Gestión de Contactos 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Gestión de Contactos 1.0-SNAPSHOT API'
+controlador
+modelo
+vista
+C:\Users\USER-PC\.m2\repository\com\formdev\flatlaf\3.2.5\flatlaf-3.2.5.jar = 1748105345246
+C:\Users\USER-PC\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar = 1748040949287
+C:\Users\USER-PC\.m2\repository\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar = 1748105345307
+C:\Users\USER-PC\.m2\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar = 1748105345307
+C:\Users\USER-PC\.m2\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar = 1748105345317
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\src\main\java = 1748126842665
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\generated-sources\annotations = 1748127915787
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\allclasses-index.html = 1748127921486
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\allpackages-index.html = 1748127921490
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\element-list = 1748127921360
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\help-doc.html = 1748127921520
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\index-all.html = 1748127921513
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\index.html = 1748127921473
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\jquery-ui.overrides.css = 1748127921542
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\member-search-index.js = 1748127921497
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\module-search-index.js = 1748127921493
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\overview-summary.html = 1748127921515
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\overview-tree.html = 1748127921468
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\package-search-index.js = 1748127921495
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\script.js = 1748127921525
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\search.js = 1748127921527
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\serialized-form.html = 1748127921423
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\stylesheet.css = 1748127921524
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\tag-search-index.js = 1748127921498
+C:\Users\USER-PC\Documents\UPS\ALGORITMOS Y ESTRUCTURA DE DATOS\TERCER-SEMESTRE-INTERFASGRAFI\u1c5_AGC_Mejia_Zaida_TAREA3\target\apidocs\type-search-index.js = 1748127921496
